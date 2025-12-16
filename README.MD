@@ -38,6 +38,9 @@ Construir uma API robusta para gerenciamento de notas e tarefas, explorando conc
 
 ```
 notesApi/
+├── .github/
+│   └── workflows/
+│       └── ci.yml
 ├── backend/
 │   ├── docs/                 # Documentação técnica e decisões de arquitetura do backend
 │   ├── scripts/              # Scripts utilitários (migrations, seeds, etc.)
